@@ -1,0 +1,1 @@
+ALTER TABLE transfer ADD COLUMN comment varchar(255) NULL;
